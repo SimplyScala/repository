@@ -1,0 +1,4 @@
+h1. Dependencies Repository
+
+It is the SimplyScala maven/sbt repository hosting the marvelous & useful ^^ libraries made in this github organization !
+
